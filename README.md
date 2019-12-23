@@ -1,1 +1,3 @@
-# c-programming
+# CshpaProgramming
+
+Hi! I'm yougbin :)
